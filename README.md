@@ -1,8 +1,6 @@
-# SRXX---Discord-Multitool
-Discord Token Generator With some more shit.. Active project
+Active Project
 
-KADIUM#9999
+![image](https://user-images.githubusercontent.com/116384757/201971560-91f453da-6a19-4c0d-9ba2-222b3fc46d1a.png)
 
-![image](https://user-images.githubusercontent.com/116384757/201962837-079893ba-e200-4229-bd74-89e08392438e.png)
 
-Adding alot more soon!
+> ⭐ Star if you like it
